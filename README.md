@@ -10,7 +10,7 @@ The codebase provides exact analytical bounding using symbolic integration, alon
 ### Key Features
 * **Exact Analytical Bounds:** Utilizes `sympy` to symbolically calculate survival mechanisms (bonds, flip-flops, residual states) for $k$-ary trees.
 * **Finite-Size Scaling:** Implements degree-distribution normalizations to align infinite mathematical bounds with finite simulated scale-free networks ($\tau \to 2$).
-* **Optimized Active-Set Simulation:** Synchronous propagation engines capable of evaluating millions of nodes using targeted neighborhood tracking and delayed cycle detection.
+* **Optimized Active-Set Simulation:** Synchronous propagation engines capable of evaluating millions of nodes using targeted neighbourhood tracking and delayed cycle detection.
 * **Convergence Paradox Analysis:** Evaluates the sub-linear convergence times of MAX-LPA on the Largest Connected Component (LCC) of scale-free graphs compared to highly branched trees.
 
 ## Repository Structure
