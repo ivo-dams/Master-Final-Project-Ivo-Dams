@@ -1,0 +1,8 @@
+```text
+numpy
+networkx
+matplotlib
+scipy
+sympy
+tqdm
+mpmath
